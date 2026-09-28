@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Prachi Vishwakarma 👋
+Aspiring Data Analyst | B.Tech CSE (Data Science), Bhopal
 
-<!--
-**Prachi217/Prachi217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Building: ClaimGuard, an ML fraud-risk scoring system for insurance claims
+- 📚 Learning: Advanced SQL, Power BI dashboards
+- 🎯 Open to: Data Analyst / BI Analyst internships and entry-level roles
 
-Here are some ideas to get you started:
+## Tech Stack
+SQL · Excel · Power BI · Python · Pandas · NumPy · Scikit-learn · Streamlit · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **[ClaimGuard] [github.com/Prachi217/claimguard] ** – Prioritizes high-risk insurance claims using ML (15,420 claims)
+- **[DMart Sales Dashboard](link)** – Excel KPI dashboard on 40,589 transactions
+- **[JanSeva AI](link)** – AI grievance platform, deployed on Vercel
+
+## Connect
+[LinkedIn](https://linkedin.com/in/prachi-vishwakarma) · prachivishwakarma653@gmail.com
