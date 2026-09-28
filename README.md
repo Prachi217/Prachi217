@@ -26,6 +26,10 @@ I turn raw data into clear, decision-ready insights using SQL, Excel, Power BI a
 Fraud-risk scoring system built on 15,420 vehicle insurance claims so high-risk claims are reviewed first. Uses Logistic Regression and Random Forest, with the risk threshold tuned on precision, recall and F1. Includes a Streamlit investigator app and a Power BI dashboard.
 `Python` `SQL` `Scikit-learn` `Streamlit` `Power BI`
 
+**[DMart Sales & Profit Dashboard](https://github.com/Prachi217/dmart-sales-dashboard)**
+Interactive Excel dashboard on 40,589 retail transactions (₹1.56 crore net sales), tracking net profit, average bill value and category performance. Identified Staples as the most profitable category (₹11.6 lakh).
+`Excel` `Pivot Tables` `Slicers`
+
 **[Data Analytics 30-Day Masterclass](https://github.com/Prachi217/data-analytics-30day-masterclass)**
 Daily hands-on practice covering data cleaning, EDA, SQL and data visualization.
 `Python` `Pandas` `Jupyter Notebook`
